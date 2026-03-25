@@ -3,7 +3,6 @@ one
 3
 4
 <<<<<<< HEAD
-five
 =======
 오
 >>>>>>> 9b6d59c (change b)
